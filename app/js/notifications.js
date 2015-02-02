@@ -1,0 +1,4 @@
+window.messages = [
+    'hello',
+    'world'
+];
